@@ -1,0 +1,36 @@
+[{
+	"id": 1,
+	"acounntNumb": "AAA-0029",
+	"AvailableCash": "39,160,334.42",
+	"DayChange%": -0.07,
+	"DayChangeMondy": "31,435.87"
+},{
+	"id": 2,
+	"acounntNumb": "IRA-0146",
+	"AvailableCash": "15,884,334.42",
+	"DayChange%": 0.03,
+	"DayChangeMondy": "7,430.83"
+},{
+	"id": 3,
+	"acounntNumb": "AAA-1812",
+	"AvailableCash": "20,100,334.42",
+	"DayChange%": 0.21,
+	"DayChangeMondy": "38,881.63"
+},{"id": 4,
+	"acounntNumb": "REG-2019",
+	"AvailableCash": "13,465,679.34",
+	"DayChange%": 0.0,
+	"DayChangeMondy": "0"
+},{
+	"id": 5,
+	"acounntNumb": "AAA-3810",
+	"AvailableCash": "10,050,054.7",
+	"DayChange%": 0.07,
+	"DayChangeMondy": "8,916.69"
+},{
+	"id": 6,
+	"acounntNumb": "IRA-5200",
+	"AvailableCash": "5,763.36",
+	"DayChange%": -0.08,
+	"DayChangeMondy": "8,916.69"
+}]
